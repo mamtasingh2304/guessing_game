@@ -1,5 +1,5 @@
+
+## time: Tue Jul 30 21:59:42 IST 2019
 # GUESSING GAME
 
-## time: Tue Jul 30 21:56:46 IST 2019
-
-22
+ number of lines 22
