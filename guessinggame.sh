@@ -13,9 +13,11 @@ read response
 if [ "$response" -gt "$file_count" ] 
 then
     echo "too high"
-else
+elif [ "$response" -lt "$file_count" ]
+then
     echo "too low"
+else
+ echo "Congratulation"
 fi
-done
+done 
  
-echo "congratulation"
