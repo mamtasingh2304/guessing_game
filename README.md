@@ -1,5 +1,5 @@
 # GUESSING GAME
 
-## time: Tue Jul 30 16:23:35 IST 2019
+## time: Tue Jul 30 21:56:46 IST 2019
 
-23
+22
